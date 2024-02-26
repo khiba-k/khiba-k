@@ -1,5 +1,4 @@
-# Hello World! 
-#I'm Khiba Koenane! 👋
+# Hello World! I'm Khiba Koenane! 👋
 
 
 
