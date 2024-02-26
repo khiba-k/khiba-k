@@ -2,8 +2,7 @@
 
 
 
-- 🔭 I’m currently a student at Holberton Lesotho.
-- 🌱 Studying software development (Linux OS).
+- 📚🖥️ Studying software development at Holberton Lesotho 
 - 👯 I’m open to any collaboration that can further improve my skills.
 - 🤔 I would appreciate any help and advice that is linux related.
 - 📫 You can reach out to me on khibak04@gmail.com
