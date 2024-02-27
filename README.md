@@ -1,6 +1,6 @@
 # Hello World! ,I'm Khiba Koenane! 👋
 
-
+**Software Developer:**
 
 - 📚🖥️ Studying software development at Holberton Lesotho 
 - 👯 I’m open to any collaboration that can further improve my skills.
