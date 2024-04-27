@@ -6,9 +6,9 @@ Welcome to my GitHub home</br></br>
 
 - 📚🖥️ Studying software development at Holberton Lesotho
 - 👯 Open to any shell and C-related collaborations.
-- 🤔 Have any advice in this field ? I'm all ears.</br>
+- 🤔 Have any advice in this field? I'm all ears.</br>
 
-- 📫 You can reach out to me on khibak04@gmail.com
+- 📫 You can reach out to me at khibakoenane@gmail.com
 <!-- -  ⚡ Fun fact: I am deep into the self-help world. -->
 
 
