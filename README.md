@@ -14,6 +14,6 @@
 
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=khiba-k)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khiba-k&layout=compact&width=495)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khiba-k&layout=compact&width=800)](https://github.com/anuraghazra/github-readme-stats)
 
 
