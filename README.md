@@ -13,7 +13,7 @@
 <!-- -  ⚡ Fun fact: I am deep into the self-help world. -->
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khiba-k&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khiba-k&layout=compact&width=495)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=khiba-k)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khiba-k&layout=compact&width=495)](https://github.com/anuraghazra/github-readme-stats)
 
 
