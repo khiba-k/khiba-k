@@ -1,8 +1,5 @@
 # Hello World! ,I'm Khiba Koenane! 👋
 
-Welcome to my Git home</br></br>
-**Web and Software Developer**</br></br>
-
 ![Welcome Image](readme.png)
 
 **Languages and Tools: <p align="left"> 
