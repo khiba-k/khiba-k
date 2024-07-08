@@ -1,5 +1,3 @@
-# Hello World! ,I'm Khiba Koenane! 👋
-
 ![Welcome Image](readme.png)
 
 **Languages and Tools: <p align="left"> 
